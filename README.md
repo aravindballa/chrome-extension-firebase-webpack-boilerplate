@@ -1,5 +1,7 @@
 # Chrome Extension + React + Webpack Boilerplate
 
+### For Firebase Auth, checkout the `auth` branch!
+
 A basic foundation boilerplate for rich Chrome Extensions using [Webpack](https://webpack.github.io/) to help you write modular and modern Javascript code, load CSS easily and [automatic reload the browser on code changes](https://webpack.github.io/docs/webpack-dev-server.html#automatic-refresh).
 
 ## Developing a new extension
@@ -101,3 +103,4 @@ ApiCall({ key: secrets.key });
 
 -------------
 Samuel Simões ~ [@samuelsimoes](https://twitter.com/samuelsimoes) ~ [Blog](http://blog.samuelsimoes.com/)
+Fork by Aravind Balla ~ [@aravindballa](https://twitter/aravindballa) ~ [Website](http://aravindballa.com)
