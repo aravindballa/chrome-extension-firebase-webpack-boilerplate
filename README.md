@@ -104,4 +104,4 @@ ApiCall({ key: secrets.key });
 -------------
 Samuel Simões ~ [@samuelsimoes](https://twitter.com/samuelsimoes) ~ [Blog](http://blog.samuelsimoes.com/)
 
-Fork by Aravind Balla ~ [@aravindballa](https://twitter/aravindballa) ~ [Website](http://aravindballa.com)
+Fork by Aravind Balla ~ [@aravindballa](https://twitter.com/aravindballa) ~ [Website](http://aravindballa.com)
